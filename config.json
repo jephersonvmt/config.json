@@ -1,6 +1,6 @@
 {
   "config": {
-    "temp_max": 25.5,
+    "temp_max": 20.5,
     "humedad_rango": [30.0, 70.0],
     "presion_base": 1013.25,
     "lux_critico": 100.0,
